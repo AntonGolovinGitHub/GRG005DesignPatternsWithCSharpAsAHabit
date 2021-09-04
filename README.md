@@ -1,0 +1,1 @@
+# GRG005DesignPatternsWithCSharpAsAHabit
